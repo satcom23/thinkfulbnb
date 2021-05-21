@@ -11,5 +11,5 @@
 -options to change which dates you are trying to stay with us
 ---
 -we also have a type selector which you can choose which type of rental is your favorite
-
+---
 ### If you are interested to rent your property through our application please submit a form
